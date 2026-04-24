@@ -1,5 +1,10 @@
 # LLM Movie Review Sentiment
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-LLM-4285F4?logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Structured_Output-7C3AED)
+![Sentiment](https://img.shields.io/badge/Sentiment-Classification-0EA5E9)
+
 Prompt-tested LLM sentiment classifier for movie reviews with single-review and batch-processing workflows.
 
 ## What This Demonstrates
